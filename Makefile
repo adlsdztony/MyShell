@@ -1,2 +1,2 @@
-MyShell: MyShell.c
-	gcc -o MyShell MyShell.c
+myshell: MyShell.c
+	gcc -o myshell MyShell.c
