@@ -11,5 +11,5 @@ make
 - [x] Execute commands with arguments
 - [x] Pipe
 - [x] exit
-- [] cd
-- [] history
+- [ ] cd
+- [ ] history
